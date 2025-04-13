@@ -35,9 +35,3 @@ Open http://localhost:5000
 # You are good to go
 
 # Site is live <a href="https://haveitdiscussed.netlify.app/">HERE </a>
-
-# This is just V01, New feature coming soon, so you can ⭐ this repo 
-
-# Made with ❤️ by Souvik Sen
-
-# _Thank You_
